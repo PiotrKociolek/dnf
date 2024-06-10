@@ -1,0 +1,14 @@
+C:\Users\piotr\Desktop\dnf\dnfSln\dnfSln\bin\Debug\net8.0\dnfSln.exe
+C:\Users\piotr\Desktop\dnf\dnfSln\dnfSln\bin\Debug\net8.0\dnfSln.deps.json
+C:\Users\piotr\Desktop\dnf\dnfSln\dnfSln\bin\Debug\net8.0\dnfSln.runtimeconfig.json
+C:\Users\piotr\Desktop\dnf\dnfSln\dnfSln\bin\Debug\net8.0\dnfSln.dll
+C:\Users\piotr\Desktop\dnf\dnfSln\dnfSln\bin\Debug\net8.0\dnfSln.pdb
+C:\Users\piotr\Desktop\dnf\dnfSln\dnfSln\obj\Debug\net8.0\dnfSln.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\piotr\Desktop\dnf\dnfSln\dnfSln\obj\Debug\net8.0\dnfSln.AssemblyInfoInputs.cache
+C:\Users\piotr\Desktop\dnf\dnfSln\dnfSln\obj\Debug\net8.0\dnfSln.AssemblyInfo.cs
+C:\Users\piotr\Desktop\dnf\dnfSln\dnfSln\obj\Debug\net8.0\dnfSln.csproj.CoreCompileInputs.cache
+C:\Users\piotr\Desktop\dnf\dnfSln\dnfSln\obj\Debug\net8.0\dnfSln.dll
+C:\Users\piotr\Desktop\dnf\dnfSln\dnfSln\obj\Debug\net8.0\refint\dnfSln.dll
+C:\Users\piotr\Desktop\dnf\dnfSln\dnfSln\obj\Debug\net8.0\dnfSln.pdb
+C:\Users\piotr\Desktop\dnf\dnfSln\dnfSln\obj\Debug\net8.0\dnfSln.genruntimeconfig.cache
+C:\Users\piotr\Desktop\dnf\dnfSln\dnfSln\obj\Debug\net8.0\ref\dnfSln.dll
